@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="<%= name %>">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title><%= name %></title>
+	<link rel="stylesheet" type="text/css" href="/assets/css/app.css">
+	<link rel="stylesheet" type="text/css" href="/vendor/bootstrap/dist/css/bootstrap.min.css">
+</head>
+<body>
+
+	<div class="container">
+		<div ui-view> </div>
+	</div>
+
+	<script src="/vendor/angular/angular.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/vendor/angular-route/angular-route.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/vendor/angular-ui-router/release/angular-ui-router.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/vendor/jquery/dist/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/vendor/bootstrap/dist/js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/app.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/routes.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/controllers.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/controllers/HomeCtrl.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>

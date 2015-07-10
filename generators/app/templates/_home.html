@@ -1,0 +1,12 @@
+<div class="jumbotron" ng-controller="HomeCtrl">
+	<div class="container">
+		<h1><%= name %> App Generated</h1>
+		<p>Basic Routing Enabled</p>
+		<ul>
+			<li ng-repeat="item in items">{{ item }}</li>
+		</ul>
+		<p>
+			<a class="btn btn-primary btn-lg" ui-sref="/404">View 404</a>
+		</p>
+	</div>
+</div>

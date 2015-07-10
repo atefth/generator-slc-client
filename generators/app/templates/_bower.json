@@ -1,0 +1,15 @@
+{
+	"name": "<%= name %>",
+	"version": "0.1.0",
+	"description": "Custom client configuration for slc",
+	"authors": ["Atef Haque <atefth@gmail.com>"],
+	"keywords": [ "yeoman", "generator", "slc", "angular" ],
+	"dependencies": {
+		"angular": null,
+		"angular-route": null,
+		"bootstrap": null,
+		"angular-ui-router": null
+		},
+		"license": "MIT"
+	}
+

@@ -1,0 +1,19 @@
+{
+	"name": "<%= name %>",
+	"version": "0.1.0",
+	"description": "Custom client configuration for slc",
+	"author": "Atef Haque <atefth@gmail.com>",
+	"scripts": { "start": "grunt" },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/atefth/generator-slc-client"
+		},
+		"keywords": [ "yeoman", "generator", "slc", "angular" ],
+		"devDependencies": {
+			"grunt": null
+			},
+			"dependencies": {
+				
+				},
+				"license": "MIT"
+			}

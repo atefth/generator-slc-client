@@ -1,0 +1,349 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"config	AngularJS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 2585,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "bs3labe	",
+		"selected_items":
+		[
+			[
+				"bs3labe	",
+				"Snippet: bs3-label-danger"
+			],
+			[
+				"bs3ju",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3jum",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"script",
+				"Snippet: <script>"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client",
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/generators",
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/generators/app"
+	],
+	"file_history":
+	[
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/generators/app/templates/_routes.js",
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/generators/app/templates/_index.html",
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/generators/app/templates/_package.json",
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/generators/app/index.js",
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/generators/app/templates/_.bowerrc",
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/package.json",
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/generators/app/templates/_HomeCtrl.js",
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/generators/app/templates/_home.html",
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/generators/app/templates/_bower.json",
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/generators/app/templates/_controllers.js",
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/generators/app/templates/_404.html",
+		"/Users/atefth/code/nodeJs/generator-slc-custom-client/generators/app/templates/_app.js",
+		"/Users/atefth/code/nodeJs/generator-custom-app/generators/app/templates/_bower.json",
+		"/Users/atefth/code/nodeJs/generator-custom-app/generators/app/templates/_home.html",
+		"/Users/atefth/code/nodeJs/generator-custom-app/generators/app/templates/_footer.html",
+		"/Users/atefth/code/nodeJs/generator-custom-app/generators/app/templates/_routes.js",
+		"/Users/atefth/code/nodeJs/generator-custom-app/generators/app/templates/_header.html",
+		"/Users/atefth/code/nodeJs/generator-custom-app/generators/app/templates/_package.json",
+		"/Users/atefth/code/nodeJs/generator-custom-app/generators/app/index.js",
+		"/Users/atefth/code/nodeJs/generator-custom-app/README.md",
+		"/Users/atefth/code/nodeJs/generator-custom-app/generators/app/templates/_app.js",
+		"/Users/atefth/code/nodeJs/generator-custom-app/generators/app/templates/_Controller.js",
+		"/Users/atefth/code/nodeJs/generator-custom-app/generators/app/templates/_controllers.js",
+		"/Users/atefth/code/nodeJs/generator-custom-app/generators/app/templates/_Gruntfile.js",
+		"/Users/atefth/code/nodeJs/generator-custom-app/generators/app/templates/_main.css",
+		"/Users/atefth/code/nodeJs/generator-custom-app/generators/app/templates/_.bowerrc",
+		"/Users/atefth/code/nodeJs/custom-app/generators/app/index.js",
+		"/Users/atefth/code/nodeJs/custom-app/generator-custom-app/generators/app/templates/_gruntfile.js",
+		"/Users/atefth/code/nodeJs/custom-app/generator-custom-app/generators/app/templates/_main.css",
+		"/Users/atefth/code/nodeJs/custom-app/generator-custom-app/generators/app/templates/_footer.html",
+		"/Users/atefth/code/nodeJs/custom-app/generator-custom-app/generators/app/templates/_header.html",
+		"/Users/atefth/code/nodeJs/custom-app/generator-custom-app/generators/app/index.js",
+		"/Users/atefth/code/nodeJs/custom-app/generator-custom-app/generators/app/templates/_package.json",
+		"/Users/atefth/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/atefth/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"client/",
+			"destinationPath('",
+			"this.appName+",
+			"this.appName",
+			"mkdir"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								755,
+								755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "generator.slc.custom.client.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"generators/app/index.js"
+			],
+			[
+				"_pack",
+				"generators/app/templates/_package.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"_home",
+				"generators/app/templates/_home.html"
+			],
+			[
+				"_inde",
+				"generators/app/templates/_index.html"
+			],
+			[
+				"rout",
+				"generators/app/templates/_routes.js"
+			],
+			[
+				"_bowe",
+				"generators/app/templates/_bower.json"
+			],
+			[
+				"_pa",
+				"generators/app/templates/_package.json"
+			],
+			[
+				"foo",
+				"generators/app/templates/_footer.html"
+			],
+			[
+				"hea",
+				"generators/app/templates/_header.html"
+			],
+			[
+				"_rout",
+				"generators/app/templates/_routes.js"
+			],
+			[
+				"head",
+				"generators/app/templates/_header.html"
+			],
+			[
+				"app",
+				"generators/app/templates/_app.js"
+			],
+			[
+				"heade",
+				"generators/app/templates/_header.html"
+			],
+			[
+				"foot",
+				"generators/app/templates/_footer.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/code/nodeJs/generator-slc-custom-client/generators/app/templates/generator.custom.app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
